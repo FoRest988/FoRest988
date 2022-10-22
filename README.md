@@ -1,10 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/tRsAZH9SwuTxm/giphy.gif" width="800"/>
 </div>
-https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
-
-
-
+<div id="badges">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</div>
 
 - 👋 Hi, I’m @FoRest988
 - 👀 I’m interested in ...
