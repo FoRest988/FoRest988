@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/tRsAZH9SwuTxm/giphy.gif" width="800"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </div>
 
