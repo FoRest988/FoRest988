@@ -8,6 +8,9 @@
   <img src="https://media.giphy.com/media/rXklnf68OenuoDHWUL/giphy.gif" width="100px"/>
   </h1>
     <img src="https://komarev.com/ghpvc/?username=FoRest988&style=flat-square&color=blue" alt=""/>
+    <img src="https://img.shields.io/github/commit-activity/y/FoRest988/ImHex" alt=""/>
+    <img src="https://img.shields.io/github/languages/count/FoRest988/ImHex" alt=""/>
+    
   </a>
 <div align="center">
   <img src="https://media.giphy.com/media/dvNb79dIzF83z6JIdb/giphy.gif" width="600" height="300"/>
