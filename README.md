@@ -25,7 +25,7 @@
 
 - :zap: when im free, I look for articles and videos about topics im learning or want to learn.
 
-- :mailbox:You Can Find me on Discord: idcFoRest#5673
+- :mailbox:You Can Find me anywhere
     
 <!---
 FoRest988/FoRest988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
